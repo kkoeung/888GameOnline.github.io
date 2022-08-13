@@ -1,0 +1,329 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 80px;
+        height: 60px;
+    }
+    header .head-logo .wrap .search{
+        width: 100%;
+        height: 100%;
+        margin-top: -20px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 20px;
+        border: 0.01px solid #ffff00;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 23px;
+        height: 20px;
+        font-size: 12px;
+        border: 0.01px solid #ffff00;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .marquee marquee{
+        height: 1481px;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 50px;
+        height: 50px;
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 200px;
+    }
+    .main-content .item-content{
+        flex-wrap: wrap;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 120px;
+        height: 100px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 20px;
+    }
+    .footer-column .footer .app-link img{
+        width: 180px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 20px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 100px;
+        height: 80px;
+        align-items: center;
+    }
+    header .head-logo .wrap .search{
+        width: 100%;
+        height: 100%;
+        margin-top: -20px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 30px;
+        border: 0.01px solid #ffff00; 
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 25px;
+        height: 30px;
+        font-size: 12px;
+        border: 0.01px solid #ffff00; 
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .marquee marquee{
+        height: 1058px;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 70px;
+        height: 70px;
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 200px;
+    }
+    .main-content .item-content{
+        flex-wrap: wrap;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 120px;
+        height: 100px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 20px;
+    }
+    .footer-column .footer .app-link img{
+        width: 180px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 20px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 120px;
+        height: 100px;
+    }
+
+    header .head-logo .wrap{
+        width: 100%;
+        height: 100%;
+        margin-left: 40px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 30px;
+        border: 0.01px solid #ffff00;
+        margin-top: 5px;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 35px;
+        height: 30px;
+        font-size: 15px;
+        border: 0.01px solid #ffff00;
+        margin-top: 5px;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .marquee marquee{
+        height: 1040px;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 100px;
+        height: 100px;
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 250px;
+    }
+    .main-content .item-content{
+        flex-wrap: wrap;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 150px;
+        height: 120px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 25px;
+    }
+    .footer-column .footer .app-link img{
+        width: 200px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 25px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo{
+        width: 100%;
+        height: 100%;
+    }
+    header .head-logo .img-logo .logo img{
+        width: 120px;
+        height: 100px;
+    }
+    header .head-logo .wrap{
+        width: 100%;
+        height: 100%;
+        margin-left: 100px;
+    }
+    header .head-logo .wrap .search input{
+        width: 100%;
+        height: 35px;
+        border: 0.01px solid #ffff00;
+        margin-top: 5px;
+    }
+    header .head-logo .wrap .search .searchButton {
+        width: 40px;
+        height: 35px;
+        font-size: 20px;
+        border: 0.01px solid #ffff00;
+        margin-top: 5px;
+    }
+    .main-content{
+        width: 100%;
+        height: 100%;
+    }
+    .main-content .marquee{
+        flex-wrap: wrap;
+    }
+    .marquee marquee{
+        height: 1270px;
+    }
+    .main-content .marquee .item .item-icon .item-slect img{
+        width: 130px;
+        height: 130px;
+    }
+    .main-content .item-content .img-card img{
+        width: 100%;
+        height: 300px;
+    }
+    .main-content .item-content{
+        flex-wrap: wrap;
+    }
+    .main-content .card .item .item-content .item-card{
+        display: inline-block;
+        border-radius: 10px;
+        margin: 10px;
+    }
+    .footer-column{
+        width: 100%;
+        height: 100%;
+    }
+    .footer-column .footer .footer-link img{
+        width: 170px;
+        height: 140px;
+    }
+    .footer-column .footer .web-link{
+        padding-top: 20px;
+    }
+    .footer-column .footer .web-link span{
+        font-size: 35px;
+    }
+    .footer-column .footer .app-link img{
+        width: 300px;
+        height: 100%;
+    }
+    .footer-column .footer .aboutus1 span{
+        font-size: 35px;
+    }
+    .footer-column .footer .aboutus2 span{
+        font-size: 25px;
+    }
+}
